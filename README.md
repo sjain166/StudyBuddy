@@ -21,4 +21,5 @@ Regards,
 Siddharth Jain
 
 # Use Case Diagram
+![Connection](StudyBuddy-UseCase.png)
 
