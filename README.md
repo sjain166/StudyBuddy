@@ -26,4 +26,7 @@ Siddharth Jain
 # UML Diagram 
 ![Connection](https://github.com/sjain166/StudyBuddy/blob/main/StudyBuddy-UML.jpg)
 
+# MVVM Architecture
+![Connection](MVVM-Archi-StudyBuddy.jpeg)
+
 
