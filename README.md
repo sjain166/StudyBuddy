@@ -23,3 +23,7 @@ Siddharth Jain
 # Use Case Diagram
 ![Connection](StudyBuddy-UseCase.png)
 
+# UML Diagram 
+![Connection](https://github.com/sjain166/StudyBuddy/blob/main/StudyBuddy-UML.jpg)
+
+
