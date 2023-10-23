@@ -27,6 +27,6 @@ Siddharth Jain
 ![Connection](https://github.com/sjain166/StudyBuddy/blob/main/StudyBuddy-UML.jpg)
 
 # MVVM Architecture
-![Connection](MVVM-Archi-StudyBuddy.jpeg)
+![Connection](https://github.com/sjain166/StudyBuddy/blob/main/MVVM%20Archi%20Study%20Buddy.jpeg)
 
 
