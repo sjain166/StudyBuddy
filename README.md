@@ -30,6 +30,8 @@ Siddharth Jain
 ![Connection](https://github.com/sjain166/StudyBuddy/blob/main/MVVM%20Archi%20Study%20Buddy.jpeg)
 
 # Video Demo 
+
+[![DEMO VIDEO](https://img.youtube.com/vi/44EQ9qytsgs/0.jpg)](https://www.youtube.com/watch?v=44EQ9qytsgs)
 https://youtu.be/44EQ9qytsgs
 
 
