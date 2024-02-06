@@ -1,4 +1,4 @@
-# StudyBuddy - In Progress !!!
+# StudyBuddy - First Draft
 The Study Buddy Locator app is poised to revolutionize how students connect and collaborate. By offering a platform for students to find and join study groups, it taps into the power of collaborative learning.
 
 Study Buddy Locator: An Innovative Learning Companion
