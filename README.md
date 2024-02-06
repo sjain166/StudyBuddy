@@ -29,4 +29,8 @@ Siddharth Jain
 # MVVM Architecture
 ![Connection](https://github.com/sjain166/StudyBuddy/blob/main/MVVM%20Archi%20Study%20Buddy.jpeg)
 
+# Video Demo 
+https://youtu.be/44EQ9qytsgs
+
+
 
