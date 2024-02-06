@@ -32,7 +32,6 @@ Siddharth Jain
 # Video Demo 
 
 [![DEMO VIDEO](https://img.youtube.com/vi/44EQ9qytsgs/0.jpg)](https://www.youtube.com/watch?v=44EQ9qytsgs)
-https://youtu.be/44EQ9qytsgs
 
 
 
